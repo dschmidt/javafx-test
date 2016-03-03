@@ -1,0 +1,5 @@
+<?import javafx.scene.control.Button?>
+
+<fx:root type="javafx.scene.layout.TilePane" xmlns:fx="http://javafx.com/fxml">
+    <Button text="Click Me Foobar Doobar Doo"/>
+</fx:root>
